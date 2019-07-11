@@ -1,0 +1,43 @@
+.navbar{
+        background-color: beige;
+        padding:20px;
+        margin: 0;
+        font-size: 28px;
+        top:0;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+
+}
+
+a{
+        float:right;
+        color:black;
+        font-size:20px;
+        margin: 10px;
+        
+}
+
+.bio-image{
+        height: 300px;
+        width:200px;
+        float:left;
+        margin:20px;
+}
+.bio-info{
+        float: right;
+        margin: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color:black;
+
+}
+.footer{
+        background-color: #666666;
+        position: fixed;
+         left:0;
+         bottom: 0;
+         width: 100%;
+         color:white;
+         text-align: center;
+                
+              }
+
+
